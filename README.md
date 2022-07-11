@@ -1,1 +1,1 @@
-https://github.com/Talk2David1/Techaton-Project
+https://talk2david1.github.io/Techaton-Project/
